@@ -1,6 +1,6 @@
 ### About Me 👋
 * A CTFer in Never Stop Exploiting(NeSE).
-* Security Researcher on HuaWei WeiRan Labs will coming soon.
+* A Security Researcher on HuaWei WeiRan Labs will coming soon.
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=yuebusao&show_icons=true&hide_border=true" />
 
 ### Language Skill 🌱  : 
