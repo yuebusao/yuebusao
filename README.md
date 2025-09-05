@@ -1,6 +1,8 @@
 ### About Me 👋
-* A ctfer in Never Stop Exploiting(NeSE).
-* A rookie security researcher will coming soon.
+* Web Security Researcher.
+* HuaWei WeiRan Lab.
+* Never Stop Exploiting(NeSE).
+* Former RASP fans, now focus on Blackbox Security | SCA | AI Fuck Security.
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=yuebusao&show_icons=true&hide_border=true" />
 
 ### Language Skill 🌱  
