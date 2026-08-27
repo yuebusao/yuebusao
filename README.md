@@ -1,17 +1,14 @@
-### About Me 👋
-* Web Security Researcher.
-* HuaWei WeiRan Lab.
-* Never Stop Exploiting(NeSE).
-* Former RASP fans, now focus on Blackbox Security | SCA | AI Fuck Security.
+### About Me
+* Web Security and AI Security Researcher.
+* Former CTFer, Never Stop Exploiting(NeSE) and Venom.
+* Former Blackbox Security | RASP fans, now focus on Cyber LLM | Agent Sandbox | AI Fuck Security.
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=yuebusao&show_icons=true&hide_border=true" />
 
-### Language Skill 🌱  
-- Java
-- Python
-- PHP
-- Nodejs
-- Go
-- SQL
+### Career 
+* 2026.8 - Now : MiniMax.
+* 2025.7 - 2026.8 : HuaWei
+### Language Skill
+- Chinese Prompt.
 <!--
 **yuebusao/yuebusao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
