@@ -6,7 +6,7 @@
 
 ### Career 
 * 2026.8 - Now : MiniMax.
-* 2025.7 - 2026.8 : HuaWei
+* 2025.7 - 2026.8 : HuaWei.
 ### Language Skill
 - Chinese Prompt.
 <!--
