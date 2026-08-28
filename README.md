@@ -1,5 +1,5 @@
 ### About Me
-* Web Security and AI Security Researcher.
+* AI Security Researcher, Former Web Security Researcher.
 * Former CTFer, Never Stop Exploiting(NeSE) and Venom.
 * Former Blackbox Security | RASP fans, now focus on Cyber LLM | Agent Sandbox | AI Fuck Security.
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=yuebusao&show_icons=true&hide_border=true" />
